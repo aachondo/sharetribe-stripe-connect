@@ -48,7 +48,7 @@
 
       ```sh
       heroku buildpacks:add heroku/nodejs
-      heroku buildpacks:add heroku.ruby
+      heroku buildpacks:add heroku/ruby
       ```   
 
   5. Deploy git repo to Heroku (step 1 added Heroku as a git remote)
